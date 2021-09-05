@@ -1,0 +1,5 @@
+In assets/css/main.css
+To view website by github so I edit line 177:
+  from:  background: url('/assets/img/slide1.jpg') top center / cover no-repeat;
+  to:   background: url('/band/assets/img/slide1.jpg') top center / cover no-repeat;
+ because on github has a sub after domain
