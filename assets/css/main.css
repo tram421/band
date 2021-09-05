@@ -177,7 +177,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/band/assets/img/slide1.jpg') top center / cover no-repeat;
+    background: url('../img/slide1.jpg') top center / cover no-repeat;
 }
 #slider .text-content {
     position: absolute;
@@ -185,6 +185,7 @@ html {
     color: white;
     width: 100%;
     text-align: center;
+    
 }
 #slider .text-heading {
     font-weight: 500;
@@ -193,6 +194,7 @@ html {
 #slider .text-description {
     font-size: 16px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 #content {
     
