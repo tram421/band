@@ -59,6 +59,9 @@ html {
     margin-top: 15px;
     border: none;
     text-align: center;
+    /* for iphone */
+    appearance: none; 
+    -webkit-appearance: none;
 }
 .btn:hover {
     background-color: #ccc;
